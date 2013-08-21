@@ -55,13 +55,9 @@ def miller_rabin(n)
   return true
 end
 
-1024.times do
-  fork do
-    loop do
-      number = rand(2**256)
-      puts "Prime!" if miller_rabin(number)
-    end
-  end
+loop do
+  number = rand(2**256)
+  puts "Prime!" if miller_rabin(number)
 end
 
 recipe "malicious::default", "Do nothing. With evil intent."
