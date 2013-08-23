@@ -1,0 +1,16 @@
+CHANGELOG.md	5ab6433e0507fa7d1c8263b86d6f1255
+CONTRIBUTING	e5600a5296cb1b69f978b6c2c4a1b1c1
+LICENSE	8f7bb094c7232b058c7e9f2e431f389c
+README.md	aad8f4cb7051c0a9066ec39ea9f06672
+attributes/default.rb	95b909ef34a95da00cc8ee61e0a5ddf8
+metadata.json	323b5aa319d9335a1b015392cedc6ea3
+metadata.rb	c9d2dd03fc3e74f175fd4bad4af6e5d9
+providers/pip.rb	0f5b7efb8e79a219d7080ad81a5c5c71
+providers/virtualenv.rb	5285abe851cd1cdf5b651423d78e1a63
+recipes/default.rb	ca2dffb5433f6e0abd862d7581c25da2
+recipes/package.rb	9faf235b04fddf6471a6a427ff48f673
+recipes/pip.rb	150584d428744c3615bddc4fde5e9777
+recipes/source.rb	67e2e63f0b923603fe1b153ca27beaf6
+recipes/virtualenv.rb	eee5c176494ba192feb11292423176b3
+resources/pip.rb	fa753c07988d3faea2dfa3c87e0b7661
+resources/virtualenv.rb	7b3a77f1725755dd12263fa9c6ff8092
