@@ -1,6 +1,7 @@
 maintainer "RightScale, Inc."
 maintainer_email "support@rightscale.com"
 description "Test fixture that has one dependency"
+long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version "1.0.0"
 
 depends "api_has_no_dependencies", "1.0.0"
